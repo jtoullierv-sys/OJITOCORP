@@ -1,0 +1,10 @@
+{
+  "name": "ojitocorp-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix sites/ojitocorp run dev",
+    "start": "npm --prefix sites/ojitocorp run start",
+    "check": "npm --prefix sites/ojitocorp run check",
+    "build": "npm --prefix sites/ojitocorp run build"
+  }
+}
