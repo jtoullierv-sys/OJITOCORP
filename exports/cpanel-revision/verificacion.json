@@ -1,0 +1,45 @@
+{
+  "archive": "well-known.zip",
+  "review_date": "2026-10-15",
+  "archive_sha256": "ce94e14e4cbb796deadecf5ac481c7a3b668bc441e15b49ceda4d6d1ad5f0a13",
+  "files_crc_checked": true,
+  "document_root_confirmed": true,
+  "database_data_export_found": false,
+  "candidates": [
+    {
+      "source": ".htaccess",
+      "file": "htaccess-raiz-candidato.txt",
+      "source_sha256": "a71ecd4753ac25321ffbe49601f699162be957e04358a8d198ad3d506e468d6f",
+      "cpanel_php_handler_preserved": true,
+      "deployed": false
+    },
+    {
+      "source": "wp/.htaccess",
+      "file": "htaccess-wp-candidato.txt",
+      "source_sha256": "6eb429afd4b1f405d7f0eae76f467c143a3aa4c5eea50837f9239d6c3a280743",
+      "cpanel_php_handler_preserved": false,
+      "deployed": false
+    }
+  ],
+  "entries": 23006,
+  "document_root": "/public_html",
+  "document_root_confirmation_source": "User confirmation from cPanel Domains, 2026-10-15",
+  "selected_configuration": "htaccess-public_html.txt",
+  "selected_source": ".htaccess",
+  "secondary_wp_domain_mapping_confirmed": false,
+  "cpanel_server_validation": "Not executed; no hosting access",
+  "selected_configuration_php_handler_bytes_verified": true,
+  "selected_configuration_sha256": "85249e76c4cdbadabf1d1dc7c6afee053beaf5b32124bdee65f9de4ee366a61b",
+  "release_package": {
+    "file": "OJITOCORP-CPANEL-PUBLIC_HTML.zip",
+    "sha256": "acc7bd09669ba09265e17e010f5b3524272249c1b55b3129d419298433b3ebbf",
+    "files": 76,
+    "size_bytes": 6445002,
+    "crc_verified": true,
+    "html_references_verified": true,
+    "static_payload_matches_current_source": true,
+    "original_generic_package_unchanged": true,
+    "cpanel_php_handler_bytes_match_uploaded_root": true,
+    "deployed": false
+  }
+}

@@ -1,0 +1,6 @@
+# OJITOCORP - candidate only; confirm document root before applying.
+# Retires the archived WordPress rules. Does not replace a backup.
+DirectoryIndex disabled
+DirectoryIndex index.html
+
+
